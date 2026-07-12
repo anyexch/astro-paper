@@ -2,5 +2,7 @@
   "attachmentFolderPath": "public/assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "src/content/posts",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

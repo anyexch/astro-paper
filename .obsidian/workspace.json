@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/posts/测试文章标题和图片存储.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "测试文章标题和图片存储"
@@ -187,6 +187,7 @@
   },
   "active": "a07545bcce4d5930",
   "lastOpenFiles": [
+    "src/assets/Pasted image 20260712185250.png",
     "src/content/posts/dynamic-og-images.md",
     "src/assets/Pasted image 20260712184759.png",
     "src/assets/Pasted image 20260712184354.png",

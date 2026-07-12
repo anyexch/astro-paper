@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "edaa4535e59ba885",
+        "id": "b885810a8086e22e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f601fb5e5487984",
+            "id": "a07545bcce4d5930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "src/content/posts/测试文章标题和图片存储.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "测试文章标题和图片存储"
@@ -185,10 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f601fb5e5487984",
+  "active": "a07545bcce4d5930",
   "lastOpenFiles": [
-    "Templates/博客文章模板.md",
+    "src/content/posts/2026-07-12.md",
     "src/content/posts/测试文章标题和图片存储.md",
+    "Templates/博客文章模板.md",
     "public/assets/Pasted image 20260712182207.png",
     "public/assets/Pasted image 20260712182200.png",
     "src/content/posts/未命名.md",

@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "public/assets",
+  "attachmentFolderPath": "src/content/assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "src/content/posts",
   "promptDelete": false,

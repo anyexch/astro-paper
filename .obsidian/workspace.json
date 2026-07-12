@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/posts/测试文章标题和图片存储.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "测试文章标题和图片存储"
@@ -187,6 +187,8 @@
   },
   "active": "a07545bcce4d5930",
   "lastOpenFiles": [
+    "src/content/assets/Pasted image 20260712183556.png",
+    "src/content/assets",
     "src/content/posts/2026-07-12.md",
     "src/content/posts/测试文章标题和图片存储.md",
     "Templates/博客文章模板.md",
@@ -223,7 +225,6 @@
     "Templates",
     "src/content/posts/examples/terminal-development.md",
     "src/content/posts/_releases/astro-paper-3.md",
-    "src/content/posts/examples/portfolio-website-development.md",
-    "src/content/posts/examples/example-draft-post.md"
+    "src/content/posts/examples/portfolio-website-development.md"
   ]
 }

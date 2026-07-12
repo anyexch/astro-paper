@@ -3,6 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "src/content/posts",
   "promptDelete": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "relative"
 }

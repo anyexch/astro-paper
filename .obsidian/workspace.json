@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/posts/测试文章标题和图片存储.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "测试文章标题和图片存储"

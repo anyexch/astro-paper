@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/posts/测试文章标题和图片存储.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "测试文章标题和图片存储"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 444.5
   },
   "right": {
     "id": "b010a4a9b404ca4c",
@@ -187,8 +187,10 @@
   },
   "active": "a07545bcce4d5930",
   "lastOpenFiles": [
-    "src/assets/Pasted image 20260712184357.png",
+    "src/assets/Pasted image 20260712184759.png",
     "src/assets/Pasted image 20260712184354.png",
+    "src/assets/Pasted image 20260712184357.png",
+    "src/content/posts/测试文章标题和图片存储.md",
     "src/content/assets/Pasted image 20260712184021.png",
     "src/content/assets/Pasted image 20260712184016.png",
     "src/content/assets/Pasted image 20260712184012.png",
@@ -197,12 +199,10 @@
     "src/content/assets/Pasted image 20260712183556.png",
     "src/content/assets",
     "src/content/posts/2026-07-12.md",
-    "src/content/posts/测试文章标题和图片存储.md",
     "Templates/博客文章模板.md",
     "public/assets/Pasted image 20260712182207.png",
     "public/assets/Pasted image 20260712182200.png",
     "src/content/posts/未命名.md",
-    "public/assets/Pasted image 20260712182005.png",
     "src/content/posts/Untitled.md",
     "src/content/posts/asdfasdfsdf.md",
     "未命名.md",

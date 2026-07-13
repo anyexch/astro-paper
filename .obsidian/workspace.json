@@ -11,12 +11,14 @@
             "id": "a07545bcce4d5930",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "src/content/posts/_color-schemes/assets/espresso.png"
+                "file": "src/content/posts/测试各种快捷方式和链接.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "espresso"
+              "icon": "lucide-file",
+              "title": "测试各种快捷方式和链接"
             }
           },
           {
@@ -33,8 +35,7 @@
               "title": "360小狗转头"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +199,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4807b30fca3d55dd",
+  "active": "a07545bcce4d5930",
   "lastOpenFiles": [
-    "src/assets/Pasted image 20260713152854.png",
     "src/content/posts/测试文章标题和图片存储.md",
-    "src/content/posts/测试各种快捷方式和链接.md",
     "src/content/posts/_color-schemes/assets/espresso.png",
+    "src/content/posts/360小狗转头.md",
+    "src/assets/Pasted image 20260713152854.png",
+    "src/content/posts/测试各种快捷方式和链接.md",
     "posts/predefined-color-schemes.md",
     "posts",
     "src/content/posts/_releases/astro-paper-2.md",
@@ -225,7 +227,6 @@
     "src/content/assets/Pasted image 20260712184016.png",
     "src/content/assets/Pasted image 20260712184012.png",
     "src/content/assets/Pasted image 20260712183734.png",
-    "src/content/assets/Pasted image 20260712183729.png",
     "src/content/assets",
     "src/content/posts/2026-07-12.md",
     "Templates/博客文章模板.md",
@@ -237,7 +238,6 @@
     "测试标题和图片.md",
     "图片和标题测试.md",
     "测试标题和文件.md",
-    "src/content/posts/360小狗转头.md",
     "public/assets",
     "Templates"
   ]

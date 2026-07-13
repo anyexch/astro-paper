@@ -1,0 +1,9 @@
+{
+  "id": "image-alignment",
+  "name": "Image Alignment",
+  "version": "1.0.5",
+  "minAppVersion": "1.5.0",
+  "description": "Adds quick image alignment controls to image context menus and commands.",
+  "author": "Dong Yang",
+  "isDesktopOnly": false
+}

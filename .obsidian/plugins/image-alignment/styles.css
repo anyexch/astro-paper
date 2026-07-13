@@ -1,0 +1,55 @@
+.markdown-preview-view .image-embed,
+.markdown-source-view.mod-cm6.is-live-preview .cm-content > .image-embed,
+.markdown-source-view.mod-cm6.is-live-preview .cm-embed-block:has(.image-embed) {
+  left: var(--image-alignment-default-left);
+  max-width: 100%;
+  position: relative;
+  transform: var(--image-alignment-default-transform);
+}
+
+.markdown-preview-view .image-embed,
+.markdown-source-view.mod-cm6.is-live-preview .cm-content > .image-embed {
+  display: flex;
+  width: fit-content;
+}
+
+.markdown-preview-view .image-embed img,
+.markdown-source-view.mod-cm6.is-live-preview .image-embed img {
+  display: block;
+}
+
+body.image-alignment-default-center {
+  --image-alignment-default-left: 50%;
+  --image-alignment-default-transform: translateX(-50%);
+}
+
+body.image-alignment-default-left {
+  --image-alignment-default-left: 0;
+  --image-alignment-default-transform: none;
+}
+
+body.image-alignment-default-right {
+  --image-alignment-default-left: 100%;
+  --image-alignment-default-transform: translateX(-100%);
+}
+
+.markdown-preview-view .image-embed:is([alt="center"], [alt^="center|"], [alt$="|center"], [alt*="|center|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-content > .image-embed:is([alt="center"], [alt^="center|"], [alt$="|center"], [alt*="|center|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-embed-block:has(.image-embed:is([alt="center"], [alt^="center|"], [alt$="|center"], [alt*="|center|"])) {
+  --image-alignment-default-left: 50%;
+  --image-alignment-default-transform: translateX(-50%);
+}
+
+.markdown-preview-view .image-embed:is([alt="left"], [alt^="left|"], [alt$="|left"], [alt*="|left|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-content > .image-embed:is([alt="left"], [alt^="left|"], [alt$="|left"], [alt*="|left|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-embed-block:has(.image-embed:is([alt="left"], [alt^="left|"], [alt$="|left"], [alt*="|left|"])) {
+  --image-alignment-default-left: 0;
+  --image-alignment-default-transform: none;
+}
+
+.markdown-preview-view .image-embed:is([alt="right"], [alt^="right|"], [alt$="|right"], [alt*="|right|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-content > .image-embed:is([alt="right"], [alt^="right|"], [alt$="|right"], [alt*="|right|"]),
+.markdown-source-view.mod-cm6.is-live-preview .cm-embed-block:has(.image-embed:is([alt="right"], [alt^="right|"], [alt$="|right"], [alt*="|right|"])) {
+  --image-alignment-default-left: 100%;
+  --image-alignment-default-transform: translateX(-100%);
+}

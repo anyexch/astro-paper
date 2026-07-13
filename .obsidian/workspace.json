@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/博客文章模板.md",
+                "file": "src/content/posts/AI制作鼠标动态交互效果教程.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "博客文章模板"
-            }
-          },
-          {
-            "id": "4807b30fca3d55dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/content/posts/测试各种快捷方式和链接.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "测试各种快捷方式和链接"
+              "title": "AI制作鼠标动态交互效果教程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +185,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4807b30fca3d55dd",
+  "active": "a07545bcce4d5930",
   "lastOpenFiles": [
-    "src/content/posts/360小狗转头.md",
+    "src/assets/小狗运动说明.mp4",
+    "src/assets/Pasted image 20260713160815.png",
+    "src/assets/Pasted image 20260713160738.png",
     "Templates/博客文章模板.md",
     "src/content/posts/测试各种快捷方式和链接.md",
+    "src/content/posts/AI制作鼠标动态交互效果教程.md",
     "src/content/posts/测试文章标题和图片存储.md",
     "src/content/posts/_color-schemes/assets/espresso.png",
     "src/assets/Pasted image 20260713152854.png",
@@ -227,8 +215,6 @@
     "src/assets/Pasted image 20260712184357.png",
     "src/content/assets/Pasted image 20260712184021.png",
     "src/content/assets/Pasted image 20260712184016.png",
-    "src/content/assets/Pasted image 20260712184012.png",
-    "src/content/assets/Pasted image 20260712183734.png",
     "src/content/assets",
     "src/content/posts/2026-07-12.md",
     "src/content/posts/Untitled.md",

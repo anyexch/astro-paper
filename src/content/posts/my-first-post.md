@@ -4,7 +4,7 @@ pubDatetime: 2026-07-11T12:00:00Z
 title: 告别红叉！我的独立博客正式开张
 postSlug: my-first-post
 featured: true
-draft: false
+draft: true
 tags:
   - life
   - tech

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/测试各种快捷方式和链接.md",
+                "file": "Templates/博客文章模板.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "测试各种快捷方式和链接"
+              "title": "博客文章模板"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/posts/360小狗转头.md",
+                "file": "src/content/posts/测试各种快捷方式和链接.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "360小狗转头"
+              "title": "测试各种快捷方式和链接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,13 +200,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a07545bcce4d5930",
+  "active": "4807b30fca3d55dd",
   "lastOpenFiles": [
+    "src/content/posts/360小狗转头.md",
+    "Templates/博客文章模板.md",
+    "src/content/posts/测试各种快捷方式和链接.md",
     "src/content/posts/测试文章标题和图片存储.md",
     "src/content/posts/_color-schemes/assets/espresso.png",
-    "src/content/posts/360小狗转头.md",
     "src/assets/Pasted image 20260713152854.png",
-    "src/content/posts/测试各种快捷方式和链接.md",
     "posts/predefined-color-schemes.md",
     "posts",
     "src/content/posts/_releases/astro-paper-2.md",
@@ -229,7 +231,6 @@
     "src/content/assets/Pasted image 20260712183734.png",
     "src/content/assets",
     "src/content/posts/2026-07-12.md",
-    "Templates/博客文章模板.md",
     "src/content/posts/Untitled.md",
     "src/content/posts/asdfasdfsdf.md",
     "未命名.md",

@@ -15,7 +15,7 @@
               "state": {
                 "file": "src/content/posts/AI制作鼠标动态交互效果教程.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "AI制作鼠标动态交互效果教程"
@@ -187,6 +187,8 @@
   },
   "active": "a07545bcce4d5930",
   "lastOpenFiles": [
+    "src/assets/Pasted image 20260713161740.png",
+    "src/assets/Pasted image 20260713161730.png",
     "src/assets/小狗运动说明.mp4",
     "src/assets/Pasted image 20260713160815.png",
     "src/assets/Pasted image 20260713160738.png",
@@ -214,7 +216,6 @@
     "src/assets/Pasted image 20260712184354.png",
     "src/assets/Pasted image 20260712184357.png",
     "src/content/assets/Pasted image 20260712184021.png",
-    "src/content/assets/Pasted image 20260712184016.png",
     "src/content/assets",
     "src/content/posts/2026-07-12.md",
     "src/content/posts/Untitled.md",

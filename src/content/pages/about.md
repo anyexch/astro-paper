@@ -1,37 +1,24 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于我"
+description: "关于 Dave，以及我正在探索和记录的事情。"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+你好，我是 Dave。
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+我喜欢把脑海里的想法做成真正可以运行、使用或拿在手里的东西。这个博客主要记录我的个人项目、技术实验和制作过程，也会诚实保留过程中遇到的问题、失败与调整。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## 我的兴趣
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- **AI 与自动化**：研究如何让 AI 真正参与日常工作，例如浏览器自动化、本地工具、内容整理和创作流程。
+- **编程与小工具**：喜欢制作解决具体问题的程序、浏览器扩展和工作流，并持续改进它们的可靠性与使用体验。
+- **3D 建模与打印**：对机械结构、参数化建模、遥控模型和 3D 打印感兴趣，也会记录从设计、装配到成品发布的完整过程。
+- **家庭服务器与数字整理**：折腾 NAS、自托管服务、数据备份和个人知识库，希望让资料更安全、更容易查找和复用。
+- **图片、视频与内容创作**：尝试不同的生成工具和制作方法，把技术实验整理成更直观的图片、视频与文章。
 
-## Features
+## 关于这个博客
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+这里不会只放最后的成果。我更希望记录一个项目为什么开始、做过哪些选择、哪里出了问题，以及最后学到了什么。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+目前的内容主要围绕个人软件项目、AI 工作流、3D 制作和实践复盘。很多项目仍在持续更新，因此文章中的结论也可能随着新的测试而变化。
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+如果你也喜欢把想法变成实际作品，欢迎通过 [GitHub](https://github.com/anyexch) 查看我公开的项目。
